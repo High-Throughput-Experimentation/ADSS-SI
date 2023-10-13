@@ -1,0 +1,10 @@
+name: adss
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=4.0.7
+  - matplotlib=3.8.0
+  - numpy=1.26.0
+  - pandas=1.5.0
+  - python-dateutil=2.8.2
+  - seaborn=0.13.0
