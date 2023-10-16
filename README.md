@@ -1,5 +1,5 @@
 # ADSS-SI
-Data tables and plotting code for BiVO4 and NiSb2O6 libraries measured using (ADSS) described in (DOI+link)
+Data tables and plotting code for BiVO4 and NiSb2O6 libraries measured by the accelerated durability screening system (ADSS) reported in (DOI+link).
 
 ## Notebook environment setup 
 ### Requirements:
@@ -18,13 +18,14 @@ conda (23.7.4 tested)
 ## Files
 | filename | description |
 | -------- | ----------- |
-| ADSS_BiVO4.svg | composite figure produced by ADSS_BiVO4_local.ipynb |
-| ADSS_BiVO4_eche_data.pickle | dataframe of electrochemistry measurements from BiVO4 run |
-| ADSS_BiVO4_icpms_data.pickle | dataframe of ICP-MS measurements of liquid aliquots from BiVO4 run |
-| ADSS_BiVO4_inject_data.pickle | dataframe of solution injection times from BiVO4 run |
-| ADSS_BiVO4_local.ipynb | Jupyter notebook for plotting BiVO4 data |
-| ADSS_NiSb2O6.svg | composite figure produced by ADSS_NiSb2O6_local.ipynb |
-| ADSS_NiSb2O6_eche_data.pickle | dataframe of electrochemistry measurements from NiSb2O6 run |
-| ADSS_NiSb2O6_icpms_data.pickle | dataframe of ICP-MS measurements of liquid aliquots from NiSb2O6 run |
-| ADSS_NiSb2O6_inject_data.pickle | dataframe of solution injection times from NiSb2O6 run |
-| ADSS_NiSb2O6_local.ipynb | Jupyter notebook for plotting NiSb2O6 data |
+| BiVO4.svg | composite figure produced by BiVO4_local.ipynb |
+| BiVO4_eche_data.pickle | dataframe of electrochemistry measurements from BiVO4 run |
+| BiVO4_icpms_data.pickle | dataframe of ICP-MS measurements of liquid aliquots from BiVO4 run |
+| BiVO4_inject_data.pickle | dataframe of solution injection times from BiVO4 run |
+| BiVO4_local.ipynb | Jupyter notebook for plotting BiVO4 data |
+| conda_env.yml | conda environment specification file |
+| NiSb2O6.svg | composite figure produced by NiSb2O6_local.ipynb |
+| NiSb2O6_eche_data.pickle | dataframe of electrochemistry measurements from NiSb2O6 run |
+| NiSb2O6_icpms_data.pickle | dataframe of ICP-MS measurements of liquid aliquots from NiSb2O6 run |
+| NiSb2O6_inject_data.pickle | dataframe of solution injection times from NiSb2O6 run |
+| NiSb2O6_local.ipynb | Jupyter notebook for plotting NiSb2O6 data |
