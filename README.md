@@ -1,5 +1,5 @@
 # ADSS-SI
-Data tables and plotting code for BiVO4 and NiSb2O6 libraries measured using (ADSS) in (DOI+link)
+Data tables and plotting code for BiVO4 and NiSb2O6 libraries measured using (ADSS) described in (DOI+link)
 
 ## Notebook environment setup 
 ### Requirements:
